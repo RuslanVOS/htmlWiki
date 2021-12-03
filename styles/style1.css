@@ -1,0 +1,10 @@
+html {
+	font-family: 'Rajdhani', sans-serif;
+	font-size:20px;
+}
+body {
+	border: 5px blue solid;	
+	width: 800px;
+	margin: 0 auto;
+	padding:0 20px 20px 20px;
+}
